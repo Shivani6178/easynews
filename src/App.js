@@ -48,6 +48,7 @@ export default class App extends Component {
             <Route exact path="/health" element={<News setProgress = {this.setProgress} key="health" country="in" pageSize={this.state.pageSize} category="health" mode={this.state.mode} />} />
           </Routes>
         </Router>
+      
       </>
     )
   }
