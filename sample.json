@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+     "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Amir Vera and Homero De la Fuente, CNN",
+    "title": "Antonio Brown is no longer a part of the Tampa Bay Buccaneers after he takes off jersey and leaves sideline mid-game, coach says - CNN",
+    "description": "Brown appeared to be upset on the sideline and inexplicably started to remove his jersey and pads while teammates pleaded to stay.",
+    "url": "https://www.cnn.com/2022/01/02/us/antonio-brown-tampa-bay-buccaneers-jersey/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220102151925-antonio-brown-tampa-bay-buccaneers-game-super-tease.jpg",
+    "publishedAt": "2022-01-03T07:37:00Z",
+    "content": null
+    },
+    {
+     "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "U.S. Futures Gain; Asian Shares Mixed on Omicron: Markets Wrap - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=1e97cf5d-6c73-11ec-8acd-676f44747152&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMS0wMy91LXMtZnV0dXJlcy1nYWluLWFzLXRyYWRlcnMtbXVsbC1vbWljcm9uLWltcGFjdC1tYXJrZXQtd3JhcA==",
+    "urlToImage": null,
+    "publishedAt": "2022-01-03T07:19:20Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+     "source": {
+    "id": "financial-times",
+    "name": "Financial Times"
+    },
+    "author": null,
+    "title": "Evergrande shares suspended after report it was told to destroy buildings - Financial Times",
+    "description": "Chinese media outlet says authorities demanded indebted property company demolish residential complex",
+    "url": "https://www.ft.com/content/fc49ae99-9fe5-494e-a2ae-a05be25eb309",
+    "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe45d7df9-8d83-4032-8978-1b32e17a133a.jpg?source=next-opengraph&fit=scale-down&width=900",
+    "publishedAt": "2022-01-03T06:14:32Z",
+    "content": "Trading of Evergrande Group shares was suspended in Hong Kong on Monday, days after Chinese media reported that the indebted property developer would be forced to demolish a residential development i… [+2548 chars]"
+    },
+    {
+     "source": {
+    "id": null,
+    "name": "WTOP"
+    },
+    "author": "Ivy Lyons, Thomas Robertson, Jessica Kronzer, Alejandro Alvarez",
+    "title": "Winter storm warning issued for DC area; some could see 10+ inches of snow Monday - WTOP",
+    "description": "Snowfall will likely complicate Monday morning travel for commuters in D.C., Northern Virginia and Southern Maryland.",
+    "url": "http://wtop.com/weather-news/2022/01/dc-under-winter-storm-watch-with-heavy-snow-forecast-early-monday/",
+    "urlToImage": "https://wtop.com/wp-content/uploads/2022/01/GettyImages-1093775190-scaled.jpg",
+    "publishedAt": "2022-01-03T05:39:07Z",
+    "content": "Some freezing rain has started falling in portions of the D.C. region as winter weather lovers see the first snowfall of the new year.\r\nMonday’s snowstorm at a glance:\r\n<ul><li>Forecasters predict fo… [+7828 chars]"
+    },
+    {
+     "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "Lauran Neergaard",
+    "title": "How will pandemic end? Omicron clouds forecasts for endgame - Associated Press",
+    "description": "Pandemics do eventually end, even if omicron  is complicating the question of when this one will.",
+    "url": "https://apnews.com/article/coronavirus-pandemic-science-health-pandemics-591db0701abcb31c2459b7a98a46e2b7",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/5cd48cf764344788932deec9c0c05efe/3000.jpeg",
+    "publishedAt": "2022-01-03T05:36:11Z",
+    "content": "Pandemics do eventually end, even if omicron is complicating the question of when this one will. But it wont be like flipping a light switch: The world will have to learn to coexist with a virus that… [+5933 chars]"
+    },
+    {
+     "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Gawon Bae, CNN",
+    "title": "Man who crossed from South Korea into North Korea presumed to be North Korean defector, Seoul officials say - CNN",
+    "description": "An unidentified man who crossed the heavily armed border from South Korea into North Korea on Sunday is presumed to be a North Korean defector who made the journey in the opposite direction more than a year ago, according to the South Korean Defense Ministry.",
+    "url": "https://www.cnn.com/2022/01/02/asia/north-korea-south-korea-border-crossing-intl/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220102073420-north-korea-south-korea-border-file-restricted-super-tease.jpg",
+    "publishedAt": "2022-01-03T05:34:00Z",
+    "content": "Seoul, South Korea (CNN)An unidentified man who crossed the heavily armed border from South Korea into North Korea on Sunday is presumed to be a North Korean defector who made the journey in the oppo… [+1439 chars]"
+    },
+    {
+     "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Cameron Faulkner",
+    "title": "Alienware’s Concept Nyx aims to cast your PC games to any screen you own - The Verge",
+    "description": "Alienware debuted Concept Nyx at CES 2022, an idea that imagines letting you run and stream up to four PC games wirelessly throughout your house, regardless of where you bought the games and what screens you have.",
+    "url": "https://www.theverge.com/2022/1/3/22855585/alienware-concept-nyx-pc-games-steam-epic-games-cast-screen-tv-monitor-phone",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/6T61aqEMGPwdQ8mv3oreXOJqtR8=/0x107:1494x889/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23128200/nyxmain.jpg",
+    "publishedAt": "2022-01-03T05:01:00Z",
+    "content": "Letting everyone get in on the game\r\nContrary to this image, Concept Nyx squeezes both screens down in size to make the full playing space for each game viewable.\r\nDell\r\nFor CES 2022, Alienware is sh… [+2494 chars]"
+    },
+    {
+     "source": {
+    "id": null,
+    "name": "ESPN"
+    },
+    "author": "Tim Bontemps",
+    "title": "Jaylen Brown scores career-high 50 points to fuel Boston Celtics' comeback OT win over Orlando Magic - ESPN",
+    "description": "Jaylen Brown became the seventh Celtics player to score 50 points in a regular-season game while rallying Boston to an overtime win Sunday night against Orlando.",
+    "url": "https://www.espn.com/nba/story/_/id/32982984/jaylen-brown-scores-career-high-50-points-fuel-boston-celtics-comeback-ot-win-orlando-magic",
+    "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0103%2Fr957383_1296x729_16%2D9.jpg",
+    "publishedAt": "2022-01-03T04:13:18Z",
+    "content": "BOSTON -- For just under 44 minutes Sunday night at TD Garden, it appeared the Boston Celtics would start their new year off about as badly as they possibly could.\r\nBut then Jaylen Brown decided that… [+4852 chars]"
+    },
+    {
+     "source": {
+    "id": "nbc-news",
+    "name": "NBC News"
+    },
+    "author": "Dennis Romero",
+    "title": "Sewage spill closes Southern California beaches - NBC News",
+    "description": "Southern California beaches from Orange to Los Angeles counties were closed over the holiday weekend after as many as 7 million gallons of untreated wastewater",
+    "url": "https://www.nbcnews.com/news/us-news/sewage-spill-closes-multiple-southern-california-beaches-rcna10660",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-01/220102-sewage-spill-los-angeles-mc-1007p-42dab5.jpg",
+    "publishedAt": "2022-01-03T04:09:00Z",
+    "content": "Southern California beaches from Orange to Los Angeles counties were closed over the holiday weekend after as many as 7 million gallons of untreated wastewater spilled into the Pacific Ocean, officia… [+2365 chars]"
+    },
+    {
+     "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Sravasti Dasgupta",
+    "title": "What is ‘flurona’? Israel reports first case of rare double infection of Covid and influenza - The Independent",
+    "description": "Flurona case reported in Israel",
+    "url": "https://www.independent.co.uk/news/world/middle-east/flurona-israel-case-covid-influenza-b1985729.html",
+    "urlToImage": "https://static.independent.co.uk/2021/08/11/21/Virus_Outbreak_Israel_29248.jpg?width=1200&auto=webp&quality=75",
+    "publishedAt": "2022-01-03T03:48:45Z",
+    "content": "Israel has recorded the first case of a rare mixture of two diseases, influenza and coronavirus, dubbed flurona.\r\nLocal reports said that the patient was a young pregnant woman, who was in hospital, … [+1790 chars]"
+    },
+    {
+     "source": {
+    "id": "nfl-news",
+    "name": "NFL News"
+    },
+    "author": null,
+    "title": "Cincinnati Bengals claim first AFC North title in six years behind Joe Burrow-led youth movement - NFL.com",
+    "description": "The Cincinnati Bengals claimed the AFC North title for the first time since 2015 after a late rally lifted them over the Chiefs. Jim Trotter discusses why these aren't the same old Bengals -- thanks to a youth movement led by Joe Burrow and Ja'Marr Chase.",
+    "url": "https://www.nfl.com/news/cincinnati-bengals-claim-first-afc-north-title-in-six-years-behind-joe-burrow-le",
+    "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/bk4eanhdjc5ylus48pet",
+    "publishedAt": "2022-01-03T02:53:00Z",
+    "content": "\"He made a bunch of great plays today, but the first touchdown was the best,\" Burrow said. \"It was 'cloud' coverage and he had the out route. He felt the cloud corner out there who was going to be ab… [+3290 chars]"
+    },
+    {
+     "source": {
+    "id": "nbc-news",
+    "name": "NBC News"
+    },
+    "author": "The Associated Press",
+    "title": "Snow storms and pandemic ground flights, delay holiday’s end - NBC News",
+    "description": "Wintry weather combined with the pandemic to frustrate air travelers whose return flights home from the holidays were canceled or delayed in the first days of",
+    "url": "https://www.nbcnews.com/news/us-news/snow-storms-pandemic-ground-flights-delay-holidays-end-rcna10661",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-01/220102-airport-delays-mc-0812p-5bc364.jpg",
+    "publishedAt": "2022-01-03T02:23:00Z",
+    "content": "Wintry weather combined with the pandemic to frustrate air travelers whose return flights home from the holidays were canceled or delayed in the first days of the new year.\r\nMore than 2,500 U.S. flig… [+3503 chars]"
+    },
+    {
+     "source": {
+    "id": "bleacher-report",
+    "name": "Bleacher Report"
+    },
+    "author": "Scott Polacek",
+    "title": "Josh Giddey Breaks LaMelo Ball's Record as Youngest NBA Player to Post Triple-Double - Bleacher Report",
+    "description": "LaMelo Ball's record didn't last long. Oklahoma City Thunder guard Josh Giddey finished with a triple-double of 17 points, 14 assists and 13 rebounds during...",
+    "url": "https://bleacherreport.com/articles/10022730-josh-giddey-breaks-lamelo-balls-record-as-youngest-nba-player-to-post-triple-double",
+    "urlToImage": "https://media.bleacherreport.com/image/upload/v1641175895/a9wmd2cqcamjarjr6kkr.jpg",
+    "publishedAt": "2022-01-03T02:22:21Z",
+    "content": "AP Photo/Garett Fisbeck\r\nLaMelo Ball's record didn't last long.\r\nOklahoma City Thunder guard Josh Giddey finished with a triple-double of 17 points, 14 assists and 13 rebounds during Sunday's 95-86 l… [+1051 chars]"
+    },
+    {
+     "source": {
+    "id": null,
+    "name": "WAVY.com"
+    },
+    "author": "Nathan Crawford",
+    "title": "Local school districts announce closings, delays ahead of expected wintery mix on Monday - WAVY.com",
+    "description": "WAVY.com has compiled a list of changes in local communities.",
+    "url": "https://www.wavy.com/news/local-news/local-school-districts-announce-closings-delays-ahead-of-expected-wintery-mix-on-monday/",
+    "urlToImage": "https://www.wavy.com/wp-content/uploads/sites/3/2021/12/GettyImages-1083346866-1.jpg?w=1280",
+    "publishedAt": "2022-01-03T02:18:51Z",
+    "content": "PORTSMOUTH, Va. (WAVY)  As wintery weather and snow approaches Hampton Roads and the surrounding areas, several school districts have announced closures and delays for Monday, January 3.\r\nClick here … [+6934 chars]"
+    },
+    {
+     "source": {
+    "id": null,
+    "name": "Daily Beast"
+    },
+    "author": "AJ McDougall",
+    "title": "Ouch: Britney Unfollows Sister Jamie Lynn on Instagram - The Daily Beast",
+    "description": "The pop princess “feels like Jamie Lynn totally abandoned her” during the “fight of her life,” a source tells E! News.",
+    "url": "https://www.thedailybeast.com/britney-spears-appears-to-unfollow-sister-jamie-lynn-on-instagram",
+    "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1169,w_2079,x_0,y_200/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1641173331/GettyImages-2240771_xt9jiz",
+    "publishedAt": "2022-01-03T02:17:47Z",
+    "content": "That is just so typically her. Britney Spears appears to have embarked upon an early spring cleaning spree, with E! News confirming that the pop star has unfollowed her younger sister, Jamie Lynn Spe… [+826 chars]"
+    },
+    {
+     "source": {
+    "id": null,
+    "name": "Samsung.com"
+    },
+    "author": null,
+    "title": "Samsung Electronics Unveils Its 2022 MICRO LED, Neo QLED and Lifestyle TVs, With Next-Generation Picture Quality and Range of Cutting-Edge Personalization Options - Samsung Global Newsroom",
+    "description": "• MICRO LED, Neo QLED and Lifestyle TVs come with the latest advancements in picture quality, sound technology and smart features  • Neo QLEDs optimized with the new Smart Hub that enables smart content curation, cloud gaming, video calls, on-screen multitask…",
+    "url": "https://news.samsung.com/global/samsung-electronics-unveils-its-2022-micro-led-neo-qled-and-lifestyle-tvs-with-next-generation-picture-quality-and-range-of-cutting-edge-personalization-options",
+    "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2022/01/CES-2022-New-TV-lineup_Thumb728.jpg",
+    "publishedAt": "2022-01-03T02:03:45Z",
+    "content": "Samsung Electronics today unveiled its newest MICRO LED, Neo QLED and Lifestyle TVs ahead of Consumer Electronics Show 2022. With advancements in picture and sound quality, more screen size options, … [+10450 chars]"
+    },
+    {
+     "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "ZEN SOO Associated Press",
+    "title": "Hong Kong news outlet to close amid crackdown on dissent - ABC News",
+    "description": "",
+    "url": "https://abcnews.go.com/International/wireStory/hong-kong-news-outlet-close-amid-crackdown-dissent-82039245",
+    "urlToImage": "https://s.abcnews.com/images/International/WireAP_25ab3fb8cf664c8982960efae0995cea_16x9_992.jpg",
+    "publishedAt": "2022-01-03T01:52:30Z",
+    "content": "HONG KONG -- A Hong Kong online news site said Sunday that it will cease operations in light of deteriorating press freedoms, days after police raided and arrested seven people for sedition at a sepa… [+1898 chars]"
+    },
+    {
+     "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Davey Alba",
+    "title": "Twitter Permanently Suspends Marjorie Taylor Greene’s Account - The New York Times",
+    "description": "The social media service said the Republican congresswoman had violated its policy on coronavirus misinformation.",
+    "url": "https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/01/02/multimedia/02twitter-greene-1/02twitter-greene-1-facebookJumbo.jpg",
+    "publishedAt": "2022-01-03T01:42:00Z",
+    "content": "The VAERS database, which is managed by the Food and Drug Administration and the C.D.C., has been cited in many coronavirus falsehoods to push the idea that side effects from the Covid-19 vaccines ha… [+2071 chars]"
+    },
+    {
+     "source": {
+    "id": null,
+    "name": "KABC-TV"
+    },
+    "author": null,
+    "title": "COVID in Los Angeles: County reports nearly 45,000 new COVID cases over weekend - KABC-TV",
+    "description": "L.A. County reported nearly 45,000 new cases of COVID-19 this weekend, an alarmingly high number in light of the typical delays in weekend reporting.",
+    "url": "https://abc7.com/los-angeles-county-covid-cases-new-years-weekend-coronavirus-case-count/11418788/",
+    "urlToImage": "https://cdn.abcotvs.com/dip/images/11418799_010222-kabc-5pm-LA-County-COVID-CC-vid.jpg?w=1600",
+    "publishedAt": "2022-01-03T01:36:22Z",
+    "content": "LOS ANGELES (CNS) -- Los Angeles County reported nearly 45,000 new cases of COVID-19 this weekend, an alarmingly high number in light of the typical delays in weekend reporting.Officials reported 23,… [+3140 chars]"
+    },
+    {
+     "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Rosy Cordero",
+    "title": "Don Cheadle Shares Touching Tribute To ‘Golden Palace’ Costar Betty White - Deadline",
+    "description": "Don Cheadle remembered his The Golden Palace costar Betty White after her death at the age of 99 on New Year’s Eve. The pair collaborated on the Golden Girls spinoff series which ran for one season from 1992-1993. “betty was the best of the best,” he shared v…",
+    "url": "https://deadline.com/2022/01/don-cheadle-tribute-golden-palace-betty-white-1234903664/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2022/01/TBDGOPA_EC006.jpg?w=1024",
+    "publishedAt": "2022-01-03T01:16:00Z",
+    "content": "Don Cheadle remembered his The Golden Palace costar Betty White after her death at the age of 99 on New Year’s Eve. The pair collaborated on the Golden Girls spinoff series which ran for one season f… [+1980 chars]"
+    }
+    ]
+    }
