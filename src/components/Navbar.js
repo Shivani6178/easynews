@@ -6,7 +6,7 @@ export default class Navbar extends Component {
     return (
       <nav className={`navbar fixed-top navbar-expand-lg navbar-${this.props.mode} bg-${this.props.mode} text-${this.props.mode==='light'?'dark':'light'}`}>
         <div className="container-fluid">
-          <Link className="navbar-brand" to="#">NewsRapid</Link>
+          <Link className="navbar-brand" to="#">EasyReads</Link>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
@@ -35,10 +35,6 @@ export default class Navbar extends Component {
                   <input type="checkbox" className="custom-control" id="customSwitches" onClick={this.props.handleMode}/>
               <label>Toggle mode</label>
             </div>
-            {/* <form className="d-flex">
-              <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-              <button className="btn btn-outline-success" type="submit">Search</button>
-            </form> */}
           </div>
         </div>
       </nav>
